@@ -1,0 +1,5 @@
+package com.ilkwon.repositories;
+
+public class BoardRepository extends CrudRepository<Board,Long>{
+
+}

@@ -1,0 +1,5 @@
+package com.ilkwon.repositories;
+
+public interface BoardRepository {
+
+}

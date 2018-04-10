@@ -1,0 +1,5 @@
+package com.ilkwon.models;
+
+public class Board {
+
+}
